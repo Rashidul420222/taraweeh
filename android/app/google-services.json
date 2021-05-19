@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76518309279",
+    "project_id": "taraweeh-a048e",
+    "storage_bucket": "taraweeh-a048e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76518309279:android:6ffc066f662604afd611aa",
+        "android_client_info": {
+          "package_name": "com.example.taraweeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76518309279-40qqm72ivtjo1rduf54amvgetvrdq625.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxwPbxrbs5ce2qws0Z2Jcsh6ZUwkxF2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76518309279-40qqm72ivtjo1rduf54amvgetvrdq625.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
